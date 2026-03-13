@@ -252,10 +252,10 @@ const ProductCard: React.FC<ProductCardProps> = ({ title, price, image, delay })
 
 const Showcase = () => {
   const products = [
-    { title: "The Ripple Pot", price: "€45", image: "/images/pot-succulent.png" },
-    { title: "Strata Vase", price: "€62", image: "/images/pots-trio.png" },
-    { title: "Minimalist Cylinder", price: "€38", image: "/images/pot-succulent.png" },
-    { title: "The Wave Bowl", price: "€55", image: "/images/pots-trio.png" },
+    { title: "The Ripple Pot", price: "€29.95", image: "/images/pot-succulent.png" },
+    { title: "Strata Vase", price: "€29.95", image: "/images/pots-trio.png" },
+    { title: "Minimalist Cylinder", price: "€29.95", image: "/images/pot-succulent.png" },
+    { title: "The Wave Bowl", price: "€29.95", image: "/images/pots-trio.png" },
   ];
 
   return (
