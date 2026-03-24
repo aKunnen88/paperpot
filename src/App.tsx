@@ -380,9 +380,9 @@ const Showcase = () => {
             <div className="border-t border-earth/10 pt-6">
               <h4 className="text-xs uppercase tracking-widest font-semibold mb-4 text-earth/80">Specificaties</h4>
               <ul className="space-y-3 text-sm text-earth/70">
-                <li className="flex justify-between"><span>Afmetingen:</span> <span>Variërend (10-18 cm hoog)</span></li>
+                <li className="flex justify-between"><span>Afmetingen:</span> <span>120–160 mm hoog, Ø 140 mm</span></li>
                 <li className="flex justify-between"><span>Materiaal:</span> <span>Berk/Papier Granulaat</span></li>
-                <li className="flex justify-between"><span>Gebruik:</span> <span>Binnen (Spatwaterbestendig)</span></li>
+                <li className="flex justify-between"><span>Gebruik:</span> <span>Waterbestendig & vorstbestendig</span></li>
               </ul>
             </div>
 
@@ -496,7 +496,7 @@ const ContactSection = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <a 
-            href="mailto:info@paperpot.be"
+            href="mailto:paperpot.be@gmail.com"
             className="flex flex-col items-center gap-4 p-8 bg-paper rounded-3xl border border-earth/5 hover:border-wood/30 transition-all group"
           >
             <div className="w-12 h-12 rounded-full bg-earth/5 flex items-center justify-center text-earth group-hover:bg-earth group-hover:text-paper transition-all">
@@ -504,7 +504,7 @@ const ContactSection = () => {
             </div>
             <div className="text-center">
               <h4 className="text-xs uppercase tracking-widest font-bold mb-1">E-mail</h4>
-              <p className="text-earth/70 font-serif text-lg">info@paperpot.be</p>
+              <p className="text-earth/70 font-serif text-lg">paperpot.be@gmail.com</p>
             </div>
           </a>
 
