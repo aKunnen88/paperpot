@@ -29,7 +29,7 @@ const Navbar = () => {
           className="flex items-center"
         >
           <a href="#home">
-            <img src="/images/logo_transparent.png" alt="paperpot logo" className="h-12 w-auto object-contain" />
+            <img src="/images/logo_white.png" alt="paperpot logo" className="h-12 w-auto object-contain" />
           </a>
         </motion.div>
         
@@ -567,7 +567,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-16 mb-16 md:mb-24">
           <div className="md:col-span-2 space-y-8">
-            <img src="/images/logo_transparent.png" alt="paperpot logo" className="h-12 w-auto object-contain" />
+            <img src="/images/logo_white.png" alt="paperpot logo" className="h-12 w-auto object-contain" />
             <p className="max-w-xs text-earth/60 leading-relaxed">
               Duurzaam design voor de moderne thuis. 3D-geprint met houtgranulaat, afgewerkt in België.
             </p>
